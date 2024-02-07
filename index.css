@@ -4,6 +4,5 @@ font-family: 'Love Ya Like A Sister', cursive;
 }
 h1{
 	color: #E67575;
-	position: relative;
-	margin-left: 12em;
+	text-align: center;
 }
