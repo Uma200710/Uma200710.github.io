@@ -1,8 +1,64 @@
 *{
-	font-family: 'Anybody', sans-serif;
-font-family: 'Love Ya Like A Sister', cursive;
+	background-color: #E79C9C;
 }
 h1{
-	color: #E67575;
+	font-family: 'Anybody', sans-serif;
+	font-family: 'Kalnia', serif;
+	font-family: 'Montagu Slab', serif;
+}
+h1{
+	color: #250A0A;
 	text-align: center;
+	margin: auto;
+	font-size: 18px;
+}
+div .Imagen{
+	text-align: center;
+	margin-top: 10px;
+
+}
+.Si{
+	background-color:#13D022;
+	color:#000000 ;
+	border-color:#13D022;
+	padding: 13px 26px;
+	font-size: 20px;
+	font-family: 'Anybody', sans-serif;
+	font-family: 'Kalnia', serif;
+	font-family: 'Montagu Slab', serif;
+	margin: 10px;
+	border-radius: 4px;
+
+}
+.Si:hover {
+	background-color:#0DB11A;
+	color:#000000;
+	border-color:#0DB11A;
+}
+.No{
+	background-color:#FB3636;
+	color:#000000 ;
+	border-color:#FB3636;
+	padding: 13px 26px;
+	font-size: 20px;
+	font-family: 'Anybody', sans-serif;
+	font-family: 'Kalnia', serif;
+	font-family: 'Montagu Slab', serif;
+	margin: 10px;
+	border-radius: 4px;
+
+}
+.No:hover {
+	background-color:#D62020;
+	color:#000000 ;
+	border-color:#D62020;
+}
+.Botones{
+	text-align: center;
+}
+
+@media screen and (max-width: 625px){
+	.Todo{
+		width: 45% !important;
+	}
 }
