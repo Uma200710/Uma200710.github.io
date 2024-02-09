@@ -57,9 +57,3 @@ div .Imagen{
 .Botones{
 	text-align: center;
 }
-
-@media screen and (max-width: 625px){
-	.Todo{
-		width: 45% !important;
-	}
-}
